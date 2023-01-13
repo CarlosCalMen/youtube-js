@@ -6,7 +6,7 @@ function sumar(a, b) {
 function restar(a, b) {
   return a - b;
 }
-
+//prueba
 export const aritmetica = {
   sumar,
   restar
